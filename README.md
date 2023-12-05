@@ -3,6 +3,7 @@
 # DSCI 510 Final Project
 
 ## Name of the Project
+EPL FIXTURES PREDICTION USING MACHINE LEARNING 2023
 
 ## Team Members (Name and Student IDs)
 
