@@ -6,8 +6,16 @@
 EPL FIXTURES PREDICTION USING MACHINE LEARNING 2023
 
 ## Team Members (Name and Student IDs)
+Aditya Kingrani (3817766265)
 
 ## Instructions to create a conda enviornment
+If you haven't installed Conda, you can do so by downloading and installing Miniconda or Anaconda from the official website: https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
+Open a new terminal or command prompt window.
+Use the following command to create a new Conda environment. Replace your_environment_name with the desired name for your environment, and specify the Python version (e.g., 3.8):
+conda create --name your_environment_name python=3.8
+After creating the environment, activate it using the following command:
+conda activate your_environment_name
+
 
 ## Instructions on how to install the required libraries
 
