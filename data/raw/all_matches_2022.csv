@@ -1,0 +1,498 @@
+,date,home_team,score,away_team,stats,half_time,2.5+,total_goals,btts
+0,,,,,,,,,
+1,Fr 5 Aug,Crystal Palace,0 - 2,Arsenal,stats,(0-1),-,2,-
+2,,,,,,,,,
+3,Sa 6 Aug,Fulham,2 - 2,Liverpool,stats,(1-0),+,4,+
+4,Sa 6 Aug,Bournemouth,2 - 0,Aston Villa,stats,(1-0),-,2,-
+5,Sa 6 Aug,Leeds Utd,2 - 1,Wolverhampton,stats,(1-1),+,3,+
+6,Sa 6 Aug,Newcastle Utd,2 - 0,Nottm Forest,stats,(0-0),-,2,-
+7,Sa 6 Aug,Tottenham,4 - 1,Southampton,stats,(2-1),+,5,+
+8,Sa 6 Aug,Everton,0 - 1,Chelsea,stats,(0-1),-,1,-
+9,,,,,,,,,
+10,Su 7 Aug,Leicester City,2 - 2,Brentford,stats,(1-0),+,4,+
+11,Su 7 Aug,Manchester Utd,1 - 2,Brighton,stats,(0-2),+,3,+
+12,Su 7 Aug,West Ham Utd,0 - 2,Manchester City,stats,(0-1),-,2,-
+13,,,,,,,,,
+14,Sa 13 Aug,Aston Villa,2 - 1,Everton,stats,(1-0),+,3,+
+15,Sa 13 Aug,Arsenal,4 - 2,Leicester City,stats,(2-0),+,6,+
+16,Sa 13 Aug,Brighton,0 - 0,Newcastle Utd,stats,(0-0),-,0,-
+17,Sa 13 Aug,Manchester City,4 - 0,Bournemouth,stats,(3-0),+,4,-
+18,Sa 13 Aug,Southampton,2 - 2,Leeds Utd,stats,(0-0),+,4,+
+19,Sa 13 Aug,Wolverhampton,0 - 0,Fulham,stats,(0-0),-,0,-
+20,Sa 13 Aug,Brentford,4 - 0,Manchester Utd,stats,(4-0),+,4,-
+21,,,,,,,,,
+22,Su 14 Aug,Nottm Forest,1 - 0,West Ham Utd,stats,(1-0),-,1,-
+23,Su 14 Aug,Chelsea,2 - 2,Tottenham,stats,(1-0),+,4,+
+24,,,,,,,,,
+25,Mo 15 Aug,Liverpool,1 - 1,Crystal Palace,stats,(0-1),-,2,+
+26,,,,,,,,,
+27,Sa 20 Aug,Tottenham,1 - 0,Wolverhampton,stats,(0-0),-,1,-
+28,Sa 20 Aug,Crystal Palace,3 - 1,Aston Villa,stats,(1-1),+,4,+
+29,Sa 20 Aug,Everton,1 - 1,Nottm Forest,stats,(0-0),-,2,+
+30,Sa 20 Aug,Fulham,3 - 2,Brentford,stats,(2-1),+,5,+
+31,Sa 20 Aug,Leicester City,1 - 2,Southampton,stats,(0-0),+,3,+
+32,Sa 20 Aug,Bournemouth,0 - 3,Arsenal,stats,(0-2),+,3,-
+33,,,,,,,,,
+34,Su 21 Aug,Leeds Utd,3 - 0,Chelsea,stats,(2-0),+,3,-
+35,Su 21 Aug,West Ham Utd,0 - 2,Brighton,stats,(0-1),-,2,-
+36,Su 21 Aug,Newcastle Utd,3 - 3,Manchester City,stats,(2-1),+,6,+
+37,,,,,,,,,
+38,Mo 22 Aug,Manchester Utd,2 - 1,Liverpool,stats,(1-0),+,3,+
+39,,,,,,,,,
+40,Sa 27 Aug,Southampton,0 - 1,Manchester Utd,stats,(0-0),-,1,-
+41,Sa 27 Aug,Brentford,1 - 1,Everton,stats,(0-1),-,2,+
+42,Sa 27 Aug,Brighton,1 - 0,Leeds Utd,stats,(0-0),-,1,-
+43,Sa 27 Aug,Chelsea,2 - 1,Leicester City,stats,(0-0),+,3,+
+44,Sa 27 Aug,Liverpool,9 - 0,Bournemouth,stats,(5-0),+,9,-
+45,Sa 27 Aug,Manchester City,4 - 2,Crystal Palace,stats,(0-2),+,6,+
+46,Sa 27 Aug,Arsenal,2 - 1,Fulham,stats,(0-0),+,3,+
+47,,,,,,,,,
+48,Su 28 Aug,Aston Villa,0 - 1,West Ham Utd,stats,(0-0),-,1,-
+49,Su 28 Aug,Wolverhampton,1 - 1,Newcastle Utd,stats,(1-0),-,2,+
+50,Su 28 Aug,Nottm Forest,0 - 2,Tottenham,stats,(0-1),-,2,-
+51,,,,,,,,,
+52,Tu 30 Aug,Crystal Palace,1 - 1,Brentford,stats,(0-0),-,2,+
+53,Tu 30 Aug,Fulham,2 - 1,Brighton,stats,(0-0),+,3,+
+54,Tu 30 Aug,Southampton,2 - 1,Chelsea,stats,(2-1),+,3,+
+55,Tu 30 Aug,Leeds Utd,1 - 1,Everton,stats,(0-1),-,2,+
+56,,,,,,,,,
+57,We 31 Aug,Arsenal,2 - 1,Aston Villa,stats,(1-0),+,3,+
+58,We 31 Aug,Bournemouth,0 - 0,Wolverhampton,stats,(0-0),-,0,-
+59,We 31 Aug,Manchester City,6 - 0,Nottm Forest,stats,(3-0),+,6,-
+60,We 31 Aug,West Ham Utd,1 - 1,Tottenham,stats,(0-1),-,2,+
+61,We 31 Aug,Liverpool,2 - 1,Newcastle Utd,stats,(0-1),+,3,+
+62,,,,,,,,,
+63,Th 1 Sep,Leicester City,0 - 1,Manchester Utd,stats,(0-1),-,1,-
+64,,,,,,,,,
+65,Sa 3 Sep,Everton,0 - 0,Liverpool,stats,(0-0),-,0,-
+66,Sa 3 Sep,Brentford,5 - 2,Leeds Utd,stats,(2-1),+,7,+
+67,Sa 3 Sep,Chelsea,2 - 1,West Ham Utd,stats,(0-0),+,3,+
+68,Sa 3 Sep,Newcastle Utd,0 - 0,Crystal Palace,stats,(0-0),-,0,-
+69,Sa 3 Sep,Nottm Forest,2 - 3,Bournemouth,stats,(2-0),+,5,+
+70,Sa 3 Sep,Tottenham,2 - 1,Fulham,stats,(1-0),+,3,+
+71,Sa 3 Sep,Wolverhampton,1 - 0,Southampton,stats,(1-0),-,1,-
+72,Sa 3 Sep,Aston Villa,1 - 1,Manchester City,stats,(0-0),-,2,+
+73,,,,,,,,,
+74,Su 4 Sep,Brighton,5 - 2,Leicester City,stats,(2-2),+,7,+
+75,Su 4 Sep,Manchester Utd,3 - 1,Arsenal,stats,(1-0),+,4,+
+76,,,,,,,,,
+77,Fr 16 Sep,Aston Villa,1 - 0,Southampton,stats,(1-0),-,1,-
+78,Fr 16 Sep,Nottm Forest,2 - 3,Fulham,stats,(1-0),+,5,+
+79,,,,,,,,,
+80,Sa 17 Sep,Wolverhampton,0 - 3,Manchester City,stats,(0-2),+,3,-
+81,Sa 17 Sep,Newcastle Utd,1 - 1,Bournemouth,stats,(0-0),-,2,+
+82,Sa 17 Sep,Tottenham,6 - 2,Leicester City,stats,(2-2),+,8,+
+83,,,,,,,,,
+84,Su 18 Sep,Brentford,0 - 3,Arsenal,stats,(0-2),+,3,-
+85,Su 18 Sep,Everton,1 - 0,West Ham Utd,stats,(0-0),-,1,-
+86,,,,,,,,,
+87,Sa 1 Oct,Arsenal,3 - 1,Tottenham,stats,(1-1),+,4,+
+88,Sa 1 Oct,Bournemouth,0 - 0,Brentford,stats,(0-0),-,0,-
+89,Sa 1 Oct,Crystal Palace,1 - 2,Chelsea,stats,(1-1),+,3,+
+90,Sa 1 Oct,Fulham,1 - 4,Newcastle Utd,stats,(0-3),+,5,+
+91,Sa 1 Oct,Liverpool,3 - 3,Brighton,stats,(1-2),+,6,+
+92,Sa 1 Oct,Southampton,1 - 2,Everton,stats,(0-0),+,3,+
+93,Sa 1 Oct,West Ham Utd,2 - 0,Wolverhampton,stats,(1-0),-,2,-
+94,,,,,,,,,
+95,Su 2 Oct,Manchester City,6 - 3,Manchester Utd,stats,(4-0),+,9,+
+96,Su 2 Oct,Leeds Utd,0 - 0,Aston Villa,stats,(0-0),-,0,-
+97,,,,,,,,,
+98,Mo 3 Oct,Leicester City,4 - 0,Nottm Forest,stats,(3-0),+,4,-
+99,,,,,,,,,
+100,Sa 8 Oct,Bournemouth,2 - 1,Leicester City,stats,(0-1),+,3,+
+101,Sa 8 Oct,Chelsea,3 - 0,Wolverhampton,stats,(1-0),+,3,-
+102,Sa 8 Oct,Manchester City,4 - 0,Southampton,stats,(2-0),+,4,-
+103,Sa 8 Oct,Newcastle Utd,5 - 1,Brentford,stats,(2-0),+,6,+
+104,Sa 8 Oct,Brighton,0 - 1,Tottenham,stats,(0-1),-,1,-
+105,,,,,,,,,
+106,Su 9 Oct,Crystal Palace,2 - 1,Leeds Utd,stats,(1-1),+,3,+
+107,Su 9 Oct,West Ham Utd,3 - 1,Fulham,stats,(1-1),+,4,+
+108,Su 9 Oct,Arsenal,3 - 2,Liverpool,stats,(2-1),+,5,+
+109,Su 9 Oct,Everton,1 - 2,Manchester Utd,stats,(1-2),+,3,+
+110,,,,,,,,,
+111,Mo 10 Oct,Nottm Forest,1 - 1,Aston Villa,stats,(1-1),-,2,+
+112,,,,,,,,,
+113,Fr 14 Oct,Brentford,2 - 0,Brighton,stats,(1-0),-,2,-
+114,,,,,,,,,
+115,Sa 15 Oct,Leicester City,0 - 0,Crystal Palace,stats,(0-0),-,0,-
+116,Sa 15 Oct,Fulham,2 - 2,Bournemouth,stats,(1-2),+,4,+
+117,Sa 15 Oct,Wolverhampton,1 - 0,Nottm Forest,stats,(0-0),-,1,-
+118,Sa 15 Oct,Tottenham,2 - 0,Everton,stats,(0-0),-,2,-
+119,,,,,,,,,
+120,Su 16 Oct,Aston Villa,0 - 2,Chelsea,stats,(0-1),-,2,-
+121,Su 16 Oct,Leeds Utd,0 - 1,Arsenal,stats,(0-1),-,1,-
+122,Su 16 Oct,Manchester Utd,0 - 0,Newcastle Utd,stats,(0-0),-,0,-
+123,Su 16 Oct,Southampton,1 - 1,West Ham Utd,stats,(1-0),-,2,+
+124,Su 16 Oct,Liverpool,1 - 0,Manchester City,stats,(0-0),-,1,-
+125,,,,,,,,,
+126,Tu 18 Oct,Brighton,0 - 0,Nottm Forest,stats,(0-0),-,0,-
+127,Tu 18 Oct,Crystal Palace,2 - 1,Wolverhampton,stats,(0-1),+,3,+
+128,,,,,,,,,
+129,We 19 Oct,Bournemouth,0 - 1,Southampton,stats,(0-1),-,1,-
+130,We 19 Oct,Brentford,0 - 0,Chelsea,stats,(0-0),-,0,-
+131,We 19 Oct,Liverpool,1 - 0,West Ham Utd,stats,(1-0),-,1,-
+132,We 19 Oct,Newcastle Utd,1 - 0,Everton,stats,(1-0),-,1,-
+133,We 19 Oct,Manchester Utd,2 - 0,Tottenham,stats,(0-0),-,2,-
+134,,,,,,,,,
+135,Th 20 Oct,Fulham,3 - 0,Aston Villa,stats,(1-0),+,3,-
+136,Th 20 Oct,Leicester City,2 - 0,Leeds Utd,stats,(2-0),-,2,-
+137,,,,,,,,,
+138,Sa 22 Oct,Nottm Forest,1 - 0,Liverpool,stats,(0-0),-,1,-
+139,Sa 22 Oct,Everton,3 - 0,Crystal Palace,stats,(1-0),+,3,-
+140,Sa 22 Oct,Manchester City,3 - 1,Brighton,stats,(2-0),+,4,+
+141,Sa 22 Oct,Chelsea,1 - 1,Manchester Utd,stats,(0-0),-,2,+
+142,,,,,,,,,
+143,Su 23 Oct,Aston Villa,4 - 0,Brentford,stats,(3-0),+,4,-
+144,Su 23 Oct,Leeds Utd,2 - 3,Fulham,stats,(1-1),+,5,+
+145,Su 23 Oct,Southampton,1 - 1,Arsenal,stats,(0-1),-,2,+
+146,Su 23 Oct,Wolverhampton,0 - 4,Leicester City,stats,(0-2),+,4,-
+147,Su 23 Oct,Tottenham,1 - 2,Newcastle Utd,stats,(0-2),+,3,+
+148,,,,,,,,,
+149,Mo 24 Oct,West Ham Utd,2 - 0,Bournemouth,stats,(1-0),-,2,-
+150,,,,,,,,,
+151,Sa 29 Oct,Leicester City,0 - 1,Manchester City,stats,(0-0),-,1,-
+152,Sa 29 Oct,Bournemouth,2 - 3,Tottenham,stats,(1-0),+,5,+
+153,Sa 29 Oct,Brentford,1 - 1,Wolverhampton,stats,(0-0),-,2,+
+154,Sa 29 Oct,Brighton,4 - 1,Chelsea,stats,(3-0),+,5,+
+155,Sa 29 Oct,Crystal Palace,1 - 0,Southampton,stats,(1-0),-,1,-
+156,Sa 29 Oct,Newcastle Utd,4 - 0,Aston Villa,stats,(1-0),+,4,-
+157,Sa 29 Oct,Fulham,0 - 0,Everton,stats,(0-0),-,0,-
+158,Sa 29 Oct,Liverpool,1 - 2,Leeds Utd,stats,(1-1),+,3,+
+159,,,,,,,,,
+160,Su 30 Oct,Arsenal,5 - 0,Nottm Forest,stats,(1-0),+,5,-
+161,Su 30 Oct,Manchester Utd,1 - 0,West Ham Utd,stats,(1-0),-,1,-
+162,,,,,,,,,
+163,Sa 5 Nov,Leeds Utd,4 - 3,Bournemouth,stats,(1-2),+,7,+
+164,Sa 5 Nov,Manchester City,2 - 1,Fulham,stats,(1-1),+,3,+
+165,Sa 5 Nov,Nottm Forest,2 - 2,Brentford,stats,(1-1),+,4,+
+166,Sa 5 Nov,Wolverhampton,2 - 3,Brighton,stats,(2-2),+,5,+
+167,Sa 5 Nov,Everton,0 - 2,Leicester City,stats,(0-1),-,2,-
+168,,,,,,,,,
+169,Su 6 Nov,Chelsea,0 - 1,Arsenal,stats,(0-0),-,1,-
+170,Su 6 Nov,Aston Villa,3 - 1,Manchester Utd,stats,(2-1),+,4,+
+171,Su 6 Nov,Southampton,1 - 4,Newcastle Utd,stats,(0-1),+,5,+
+172,Su 6 Nov,West Ham Utd,1 - 2,Crystal Palace,stats,(1-1),+,3,+
+173,Su 6 Nov,Tottenham,1 - 2,Liverpool,stats,(0-2),+,3,+
+174,,,,,,,,,
+175,Sa 12 Nov,Manchester City,1 - 2,Brentford,stats,(1-1),+,3,+
+176,Sa 12 Nov,Bournemouth,3 - 0,Everton,stats,(2-0),+,3,-
+177,Sa 12 Nov,Liverpool,3 - 1,Southampton,stats,(3-1),+,4,+
+178,Sa 12 Nov,Nottm Forest,1 - 0,Crystal Palace,stats,(0-0),-,1,-
+179,Sa 12 Nov,Tottenham,4 - 3,Leeds Utd,stats,(1-2),+,7,+
+180,Sa 12 Nov,West Ham Utd,0 - 2,Leicester City,stats,(0-1),-,2,-
+181,Sa 12 Nov,Newcastle Utd,1 - 0,Chelsea,stats,(0-0),-,1,-
+182,Sa 12 Nov,Wolverhampton,0 - 2,Arsenal,stats,(0-0),-,2,-
+183,,,,,,,,,
+184,Su 13 Nov,Brighton,1 - 2,Aston Villa,stats,(1-1),+,3,+
+185,Su 13 Nov,Fulham,1 - 2,Manchester Utd,stats,(0-1),+,3,+
+186,,,,,,,,,
+187,Mo 26 Dec,Brentford,2 - 2,Tottenham,stats,(1-0),+,4,+
+188,Mo 26 Dec,Crystal Palace,0 - 3,Fulham,stats,(0-1),+,3,-
+189,Mo 26 Dec,Everton,1 - 2,Wolverhampton,stats,(1-1),+,3,+
+190,Mo 26 Dec,Leicester City,0 - 3,Newcastle Utd,stats,(0-3),+,3,-
+191,Mo 26 Dec,Southampton,1 - 3,Brighton,stats,(0-2),+,4,+
+192,Mo 26 Dec,Aston Villa,1 - 3,Liverpool,stats,(0-2),+,4,+
+193,Mo 26 Dec,Arsenal,3 - 1,West Ham Utd,stats,(0-1),+,4,+
+194,,,,,,,,,
+195,Tu 27 Dec,Chelsea,2 - 0,Bournemouth,stats,(2-0),-,2,-
+196,Tu 27 Dec,Manchester Utd,3 - 0,Nottm Forest,stats,(2-0),+,3,-
+197,,,,,,,,,
+198,We 28 Dec,Leeds Utd,1 - 3,Manchester City,stats,(0-1),+,4,+
+199,,,,,,,,,
+200,Fr 30 Dec,West Ham Utd,0 - 2,Brentford,stats,(0-2),-,2,-
+201,Fr 30 Dec,Liverpool,2 - 1,Leicester City,stats,(2-1),+,3,+
+202,,,,,,,,,
+203,Sa 31 Dec,Wolverhampton,0 - 1,Manchester Utd,stats,(0-0),-,1,-
+204,Sa 31 Dec,Bournemouth,0 - 2,Crystal Palace,stats,(0-2),-,2,-
+205,Sa 31 Dec,Fulham,2 - 1,Southampton,stats,(1-0),+,3,+
+206,Sa 31 Dec,Manchester City,1 - 1,Everton,stats,(1-0),-,2,+
+207,Sa 31 Dec,Newcastle Utd,0 - 0,Leeds Utd,stats,(0-0),-,0,-
+208,Sa 31 Dec,Brighton,2 - 4,Arsenal,stats,(0-2),+,6,+
+209,,,,,,,,,
+210,Su 1 Jan,Tottenham,0 - 2,Aston Villa,stats,(0-0),-,2,-
+211,Su 1 Jan,Nottm Forest,1 - 1,Chelsea,stats,(0-1),-,2,+
+212,,,,,,,,,
+213,Mo 2 Jan,Brentford,3 - 1,Liverpool,stats,(2-0),+,4,+
+214,,,,,,,,,
+215,Tu 3 Jan,Arsenal,0 - 0,Newcastle Utd,stats,(0-0),-,0,-
+216,Tu 3 Jan,Everton,1 - 4,Brighton,stats,(0-1),+,5,+
+217,Tu 3 Jan,Leicester City,0 - 1,Fulham,stats,(0-1),-,1,-
+218,Tu 3 Jan,Manchester Utd,3 - 0,Bournemouth,stats,(1-0),+,3,-
+219,,,,,,,,,
+220,We 4 Jan,Southampton,0 - 1,Nottm Forest,stats,(0-1),-,1,-
+221,We 4 Jan,Leeds Utd,2 - 2,West Ham Utd,stats,(1-1),+,4,+
+222,We 4 Jan,Aston Villa,1 - 1,Wolverhampton,stats,(0-1),-,2,+
+223,We 4 Jan,Crystal Palace,0 - 4,Tottenham,stats,(0-0),+,4,-
+224,,,,,,,,,
+225,Th 5 Jan,Chelsea,0 - 1,Manchester City,stats,(0-0),-,1,-
+226,,,,,,,,,
+227,Th 12 Jan,Fulham,2 - 1,Chelsea,stats,(1-0),+,3,+
+228,,,,,,,,,
+229,Fr 13 Jan,Aston Villa,2 - 1,Leeds Utd,stats,(1-0),+,3,+
+230,,,,,,,,,
+231,Sa 14 Jan,Manchester Utd,2 - 1,Manchester City,stats,(0-0),+,3,+
+232,Sa 14 Jan,Brighton,3 - 0,Liverpool,stats,(0-0),+,3,-
+233,Sa 14 Jan,Everton,1 - 2,Southampton,stats,(1-0),+,3,+
+234,Sa 14 Jan,Nottm Forest,2 - 0,Leicester City,stats,(0-0),-,2,-
+235,Sa 14 Jan,Wolverhampton,1 - 0,West Ham Utd,stats,(0-0),-,1,-
+236,Sa 14 Jan,Brentford,2 - 0,Bournemouth,stats,(1-0),-,2,-
+237,,,,,,,,,
+238,Su 15 Jan,Chelsea,1 - 0,Crystal Palace,stats,(0-0),-,1,-
+239,Su 15 Jan,Newcastle Utd,1 - 0,Fulham,stats,(0-0),-,1,-
+240,Su 15 Jan,Tottenham,0 - 2,Arsenal,stats,(0-2),-,2,-
+241,,,,,,,,,
+242,We 18 Jan,Crystal Palace,1 - 1,Manchester Utd,stats,(0-1),-,2,+
+243,,,,,,,,,
+244,Th 19 Jan,Manchester City,4 - 2,Tottenham,stats,(0-2),+,6,+
+245,,,,,,,,,
+246,Sa 21 Jan,Liverpool,0 - 0,Chelsea,stats,(0-0),-,0,-
+247,Sa 21 Jan,Bournemouth,1 - 1,Nottm Forest,stats,(1-0),-,2,+
+248,Sa 21 Jan,Leicester City,2 - 2,Brighton,stats,(1-1),+,4,+
+249,Sa 21 Jan,Southampton,0 - 1,Aston Villa,stats,(0-0),-,1,-
+250,Sa 21 Jan,West Ham Utd,2 - 0,Everton,stats,(2-0),-,2,-
+251,Sa 21 Jan,Crystal Palace,0 - 0,Newcastle Utd,stats,(0-0),-,0,-
+252,,,,,,,,,
+253,Su 22 Jan,Leeds Utd,0 - 0,Brentford,stats,(0-0),-,0,-
+254,Su 22 Jan,Manchester City,3 - 0,Wolverhampton,stats,(1-0),+,3,-
+255,Su 22 Jan,Arsenal,3 - 2,Manchester Utd,stats,(1-1),+,5,+
+256,,,,,,,,,
+257,Mo 23 Jan,Fulham,0 - 1,Tottenham,stats,(0-1),-,1,-
+258,,,,,,,,,
+259,Fr 3 Feb,Chelsea,0 - 0,Fulham,stats,(0-0),-,0,-
+260,,,,,,,,,
+261,Sa 4 Feb,Everton,1 - 0,Arsenal,stats,(0-0),-,1,-
+262,Sa 4 Feb,Aston Villa,2 - 4,Leicester City,stats,(2-3),+,6,+
+263,Sa 4 Feb,Brentford,3 - 0,Southampton,stats,(2-0),+,3,-
+264,Sa 4 Feb,Brighton,1 - 0,Bournemouth,stats,(0-0),-,1,-
+265,Sa 4 Feb,Manchester Utd,2 - 1,Crystal Palace,stats,(1-0),+,3,+
+266,Sa 4 Feb,Wolverhampton,3 - 0,Liverpool,stats,(2-0),+,3,-
+267,Sa 4 Feb,Newcastle Utd,1 - 1,West Ham Utd,stats,(1-1),-,2,+
+268,,,,,,,,,
+269,Su 5 Feb,Nottm Forest,1 - 0,Leeds Utd,stats,(1-0),-,1,-
+270,Su 5 Feb,Tottenham,1 - 0,Manchester City,stats,(1-0),-,1,-
+271,,,,,,,,,
+272,We 8 Feb,Manchester Utd,2 - 2,Leeds Utd,stats,(0-1),+,4,+
+273,,,,,,,,,
+274,Sa 11 Feb,West Ham Utd,1 - 1,Chelsea,stats,(1-1),-,2,+
+275,Sa 11 Feb,Arsenal,1 - 1,Brentford,stats,(0-0),-,2,+
+276,Sa 11 Feb,Crystal Palace,1 - 1,Brighton,stats,(0-0),-,2,+
+277,Sa 11 Feb,Fulham,2 - 0,Nottm Forest,stats,(1-0),-,2,-
+278,Sa 11 Feb,Leicester City,4 - 1,Tottenham,stats,(3-1),+,5,+
+279,Sa 11 Feb,Southampton,1 - 2,Wolverhampton,stats,(1-0),+,3,+
+280,Sa 11 Feb,Bournemouth,1 - 1,Newcastle Utd,stats,(1-1),-,2,+
+281,,,,,,,,,
+282,Su 12 Feb,Leeds Utd,0 - 2,Manchester Utd,stats,(0-0),-,2,-
+283,Su 12 Feb,Manchester City,3 - 1,Aston Villa,stats,(3-0),+,4,+
+284,,,,,,,,,
+285,Mo 13 Feb,Liverpool,2 - 0,Everton,stats,(1-0),-,2,-
+286,,,,,,,,,
+287,We 15 Feb,Arsenal,1 - 3,Manchester City,stats,(1-1),+,4,+
+288,,,,,,,,,
+289,Sa 18 Feb,Aston Villa,2 - 4,Arsenal,stats,(2-1),+,6,+
+290,Sa 18 Feb,Brentford,1 - 1,Crystal Palace,stats,(0-0),-,2,+
+291,Sa 18 Feb,Brighton,0 - 1,Fulham,stats,(0-0),-,1,-
+292,Sa 18 Feb,Chelsea,0 - 1,Southampton,stats,(0-1),-,1,-
+293,Sa 18 Feb,Everton,1 - 0,Leeds Utd,stats,(0-0),-,1,-
+294,Sa 18 Feb,Nottm Forest,1 - 1,Manchester City,stats,(0-1),-,2,+
+295,Sa 18 Feb,Wolverhampton,0 - 1,Bournemouth,stats,(0-0),-,1,-
+296,Sa 18 Feb,Newcastle Utd,0 - 2,Liverpool,stats,(0-2),-,2,-
+297,,,,,,,,,
+298,Su 19 Feb,Manchester Utd,3 - 0,Leicester City,stats,(1-0),+,3,-
+299,Su 19 Feb,Tottenham,2 - 0,West Ham Utd,stats,(0-0),-,2,-
+300,,,,,,,,,
+301,Fr 24 Feb,Fulham,1 - 1,Wolverhampton,stats,(0-1),-,2,+
+302,,,,,,,,,
+303,Sa 25 Feb,Everton,0 - 2,Aston Villa,stats,(0-0),-,2,-
+304,Sa 25 Feb,Leeds Utd,1 - 0,Southampton,stats,(0-0),-,1,-
+305,Sa 25 Feb,Leicester City,0 - 1,Arsenal,stats,(0-0),-,1,-
+306,Sa 25 Feb,West Ham Utd,4 - 0,Nottm Forest,stats,(0-0),+,4,-
+307,Sa 25 Feb,Bournemouth,1 - 4,Manchester City,stats,(0-3),+,5,+
+308,Sa 25 Feb,Crystal Palace,0 - 0,Liverpool,stats,(0-0),-,0,-
+309,,,,,,,,,
+310,Su 26 Feb,Tottenham,2 - 0,Chelsea,stats,(0-0),-,2,-
+311,,,,,,,,,
+312,We 1 Mar,Arsenal,4 - 0,Everton,stats,(2-0),+,4,-
+313,We 1 Mar,Liverpool,2 - 0,Wolverhampton,stats,(0-0),-,2,-
+314,,,,,,,,,
+315,Sa 4 Mar,Manchester City,2 - 0,Newcastle Utd,stats,(1-0),-,2,-
+316,Sa 4 Mar,Arsenal,3 - 2,Bournemouth,stats,(0-1),+,5,+
+317,Sa 4 Mar,Aston Villa,1 - 0,Crystal Palace,stats,(1-0),-,1,-
+318,Sa 4 Mar,Brighton,4 - 0,West Ham Utd,stats,(1-0),+,4,-
+319,Sa 4 Mar,Chelsea,1 - 0,Leeds Utd,stats,(0-0),-,1,-
+320,Sa 4 Mar,Wolverhampton,1 - 0,Tottenham,stats,(0-0),-,1,-
+321,Sa 4 Mar,Southampton,1 - 0,Leicester City,stats,(1-0),-,1,-
+322,,,,,,,,,
+323,Su 5 Mar,Nottm Forest,2 - 2,Everton,stats,(1-2),+,4,+
+324,Su 5 Mar,Liverpool,7 - 0,Manchester Utd,stats,(1-0),+,7,-
+325,,,,,,,,,
+326,Mo 6 Mar,Brentford,3 - 2,Fulham,stats,(1-1),+,5,+
+327,,,,,,,,,
+328,Sa 11 Mar,Bournemouth,1 - 0,Liverpool,stats,(1-0),-,1,-
+329,Sa 11 Mar,Everton,1 - 0,Brentford,stats,(1-0),-,1,-
+330,Sa 11 Mar,Leeds Utd,2 - 2,Brighton,stats,(1-1),+,4,+
+331,Sa 11 Mar,Leicester City,1 - 3,Chelsea,stats,(1-2),+,4,+
+332,Sa 11 Mar,Tottenham,3 - 1,Nottm Forest,stats,(2-0),+,4,+
+333,Sa 11 Mar,Crystal Palace,0 - 1,Manchester City,stats,(0-0),-,1,-
+334,,,,,,,,,
+335,Su 12 Mar,Fulham,0 - 3,Arsenal,stats,(0-3),+,3,-
+336,Su 12 Mar,Manchester Utd,0 - 0,Southampton,stats,(0-0),-,0,-
+337,Su 12 Mar,West Ham Utd,1 - 1,Aston Villa,stats,(1-1),-,2,+
+338,Su 12 Mar,Newcastle Utd,2 - 1,Wolverhampton,stats,(1-0),+,3,+
+339,,,,,,,,,
+340,We 15 Mar,Brighton,1 - 0,Crystal Palace,stats,(1-0),-,1,-
+341,We 15 Mar,Southampton,0 - 2,Brentford,stats,(0-1),-,2,-
+342,,,,,,,,,
+343,Fr 17 Mar,Nottm Forest,1 - 2,Newcastle Utd,stats,(1-1),+,3,+
+344,,,,,,,,,
+345,Sa 18 Mar,Aston Villa,3 - 0,Bournemouth,stats,(1-0),+,3,-
+346,Sa 18 Mar,Brentford,1 - 1,Leicester City,stats,(1-0),-,2,+
+347,Sa 18 Mar,Southampton,3 - 3,Tottenham,stats,(0-1),+,6,+
+348,Sa 18 Mar,Wolverhampton,2 - 4,Leeds Utd,stats,(0-1),+,6,+
+349,Sa 18 Mar,Chelsea,2 - 2,Everton,stats,(0-0),+,4,+
+350,,,,,,,,,
+351,Su 19 Mar,Arsenal,4 - 1,Crystal Palace,stats,(2-0),+,5,+
+352,,,,,,,,,
+353,Sa 1 Apr,Manchester City,4 - 1,Liverpool,stats,(1-1),+,5,+
+354,Sa 1 Apr,Arsenal,4 - 1,Leeds Utd,stats,(1-0),+,5,+
+355,Sa 1 Apr,Bournemouth,2 - 1,Fulham,stats,(0-1),+,3,+
+356,Sa 1 Apr,Brighton,3 - 3,Brentford,stats,(2-2),+,6,+
+357,Sa 1 Apr,Crystal Palace,2 - 1,Leicester City,stats,(0-0),+,3,+
+358,Sa 1 Apr,Nottm Forest,1 - 1,Wolverhampton,stats,(1-0),-,2,+
+359,Sa 1 Apr,Chelsea,0 - 2,Aston Villa,stats,(0-1),-,2,-
+360,,,,,,,,,
+361,Su 2 Apr,West Ham Utd,1 - 0,Southampton,stats,(1-0),-,1,-
+362,Su 2 Apr,Newcastle Utd,2 - 0,Manchester Utd,stats,(0-0),-,2,-
+363,,,,,,,,,
+364,Mo 3 Apr,Everton,1 - 1,Tottenham,stats,(0-0),-,2,+
+365,,,,,,,,,
+366,Tu 4 Apr,Bournemouth,0 - 2,Brighton,stats,(0-1),-,2,-
+367,Tu 4 Apr,Leeds Utd,2 - 1,Nottm Forest,stats,(2-1),+,3,+
+368,Tu 4 Apr,Leicester City,1 - 2,Aston Villa,stats,(1-1),+,3,+
+369,Tu 4 Apr,Chelsea,0 - 0,Liverpool,stats,(0-0),-,0,-
+370,,,,,,,,,
+371,We 5 Apr,Manchester Utd,1 - 0,Brentford,stats,(1-0),-,1,-
+372,We 5 Apr,West Ham Utd,1 - 5,Newcastle Utd,stats,(1-2),+,6,+
+373,,,,,,,,,
+374,Sa 8 Apr,Manchester Utd,2 - 0,Everton,stats,(1-0),-,2,-
+375,Sa 8 Apr,Aston Villa,2 - 0,Nottm Forest,stats,(0-0),-,2,-
+376,Sa 8 Apr,Brentford,1 - 2,Newcastle Utd,stats,(1-0),+,3,+
+377,Sa 8 Apr,Fulham,0 - 1,West Ham Utd,stats,(0-1),-,1,-
+378,Sa 8 Apr,Leicester City,0 - 1,Bournemouth,stats,(0-1),-,1,-
+379,Sa 8 Apr,Tottenham,2 - 1,Brighton,stats,(1-1),+,3,+
+380,Sa 8 Apr,Wolverhampton,1 - 0,Chelsea,stats,(1-0),-,1,-
+381,Sa 8 Apr,Southampton,1 - 4,Manchester City,stats,(0-1),+,5,+
+382,,,,,,,,,
+383,Su 9 Apr,Leeds Utd,1 - 5,Crystal Palace,stats,(1-1),+,6,+
+384,Su 9 Apr,Liverpool,2 - 2,Arsenal,stats,(1-2),+,4,+
+385,,,,,,,,,
+386,Sa 15 Apr,Aston Villa,3 - 0,Newcastle Utd,stats,(1-0),+,3,-
+387,Sa 15 Apr,Chelsea,1 - 2,Brighton,stats,(1-1),+,3,+
+388,Sa 15 Apr,Everton,1 - 3,Fulham,stats,(1-1),+,4,+
+389,Sa 15 Apr,Southampton,0 - 2,Crystal Palace,stats,(0-0),-,2,-
+390,Sa 15 Apr,Wolverhampton,2 - 0,Brentford,stats,(1-0),-,2,-
+391,Sa 15 Apr,Tottenham,2 - 3,Bournemouth,stats,(1-1),+,5,+
+392,Sa 15 Apr,Manchester City,3 - 1,Leicester City,stats,(3-0),+,4,+
+393,,,,,,,,,
+394,Su 16 Apr,West Ham Utd,2 - 2,Arsenal,stats,(1-2),+,4,+
+395,Su 16 Apr,Nottm Forest,0 - 2,Manchester Utd,stats,(0-1),-,2,-
+396,,,,,,,,,
+397,Mo 17 Apr,Leeds Utd,1 - 6,Liverpool,stats,(0-2),+,7,+
+398,,,,,,,,,
+399,Fr 21 Apr,Arsenal,3 - 3,Southampton,stats,(1-2),+,6,+
+400,,,,,,,,,
+401,Sa 22 Apr,Fulham,2 - 1,Leeds Utd,stats,(0-0),+,3,+
+402,Sa 22 Apr,Brentford,1 - 1,Aston Villa,stats,(0-0),-,2,+
+403,Sa 22 Apr,Crystal Palace,0 - 0,Everton,stats,(0-0),-,0,-
+404,Sa 22 Apr,Leicester City,2 - 1,Wolverhampton,stats,(1-1),+,3,+
+405,Sa 22 Apr,Liverpool,3 - 2,Nottm Forest,stats,(0-0),+,5,+
+406,,,,,,,,,
+407,Su 23 Apr,Bournemouth,0 - 4,West Ham Utd,stats,(0-3),+,4,-
+408,Su 23 Apr,Newcastle Utd,6 - 1,Tottenham,stats,(5-0),+,7,+
+409,,,,,,,,,
+410,Tu 25 Apr,Wolverhampton,2 - 0,Crystal Palace,stats,(1-0),-,2,-
+411,Tu 25 Apr,Aston Villa,1 - 0,Fulham,stats,(1-0),-,1,-
+412,Tu 25 Apr,Leeds Utd,1 - 1,Leicester City,stats,(1-0),-,2,+
+413,,,,,,,,,
+414,We 26 Apr,Nottm Forest,3 - 1,Brighton,stats,(1-1),+,4,+
+415,We 26 Apr,Chelsea,0 - 2,Brentford,stats,(0-1),-,2,-
+416,We 26 Apr,West Ham Utd,1 - 2,Liverpool,stats,(1-1),+,3,+
+417,We 26 Apr,Manchester City,4 - 1,Arsenal,stats,(2-0),+,5,+
+418,,,,,,,,,
+419,Th 27 Apr,Everton,1 - 4,Newcastle Utd,stats,(0-1),+,5,+
+420,Th 27 Apr,Southampton,0 - 1,Bournemouth,stats,(0-0),-,1,-
+421,Th 27 Apr,Tottenham,2 - 2,Manchester Utd,stats,(0-2),+,4,+
+422,,,,,,,,,
+423,Sa 29 Apr,Crystal Palace,4 - 3,West Ham Utd,stats,(3-2),+,7,+
+424,Sa 29 Apr,Brentford,2 - 1,Nottm Forest,stats,(0-1),+,3,+
+425,Sa 29 Apr,Brighton,6 - 0,Wolverhampton,stats,(4-0),+,6,-
+426,,,,,,,,,
+427,Su 30 Apr,Bournemouth,4 - 1,Leeds Utd,stats,(2-1),+,5,+
+428,Su 30 Apr,Fulham,1 - 2,Manchester City,stats,(1-2),+,3,+
+429,Su 30 Apr,Manchester Utd,1 - 0,Aston Villa,stats,(1-0),-,1,-
+430,Su 30 Apr,Newcastle Utd,3 - 1,Southampton,stats,(0-1),+,4,+
+431,Su 30 Apr,Liverpool,4 - 3,Tottenham,stats,(3-1),+,7,+
+432,,,,,,,,,
+433,Mo 1 May,Leicester City,2 - 2,Everton,stats,(2-1),+,4,+
+434,,,,,,,,,
+435,Tu 2 May,Arsenal,3 - 1,Chelsea,stats,(3-0),+,4,+
+436,,,,,,,,,
+437,We 3 May,Liverpool,1 - 0,Fulham,stats,(1-0),-,1,-
+438,We 3 May,Manchester City,3 - 0,West Ham Utd,stats,(0-0),+,3,-
+439,,,,,,,,,
+440,Th 4 May,Brighton,1 - 0,Manchester Utd,stats,(0-0),-,1,-
+441,,,,,,,,,
+442,Sa 6 May,Bournemouth,1 - 3,Chelsea,stats,(1-1),+,4,+
+443,Sa 6 May,Manchester City,2 - 1,Leeds Utd,stats,(2-0),+,3,+
+444,Sa 6 May,Tottenham,1 - 0,Crystal Palace,stats,(1-0),-,1,-
+445,Sa 6 May,Wolverhampton,1 - 0,Aston Villa,stats,(1-0),-,1,-
+446,Sa 6 May,Liverpool,1 - 0,Brentford,stats,(1-0),-,1,-
+447,,,,,,,,,
+448,Su 7 May,Newcastle Utd,0 - 2,Arsenal,stats,(0-1),-,2,-
+449,Su 7 May,West Ham Utd,1 - 0,Manchester Utd,stats,(1-0),-,1,-
+450,,,,,,,,,
+451,Mo 8 May,Fulham,5 - 3,Leicester City,stats,(3-0),+,8,+
+452,Mo 8 May,Brighton,1 - 5,Everton,stats,(0-3),+,6,+
+453,Mo 8 May,Nottm Forest,4 - 3,Southampton,stats,(3-1),+,7,+
+454,,,,,,,,,
+455,Sa 13 May,Leeds Utd,2 - 2,Newcastle Utd,stats,(1-1),+,4,+
+456,Sa 13 May,Aston Villa,2 - 1,Tottenham,stats,(1-0),+,3,+
+457,Sa 13 May,Chelsea,2 - 2,Nottm Forest,stats,(0-1),+,4,+
+458,Sa 13 May,Crystal Palace,2 - 0,Bournemouth,stats,(1-0),-,2,-
+459,Sa 13 May,Manchester Utd,2 - 0,Wolverhampton,stats,(1-0),-,2,-
+460,Sa 13 May,Southampton,0 - 2,Fulham,stats,(0-0),-,2,-
+461,,,,,,,,,
+462,Su 14 May,Brentford,2 - 0,West Ham Utd,stats,(2-0),-,2,-
+463,Su 14 May,Everton,0 - 3,Manchester City,stats,(0-2),+,3,-
+464,Su 14 May,Arsenal,0 - 3,Brighton,stats,(0-0),+,3,-
+465,,,,,,,,,
+466,Mo 15 May,Leicester City,0 - 3,Liverpool,stats,(0-2),+,3,-
+467,,,,,,,,,
+468,Th 18 May,Newcastle Utd,4 - 1,Brighton,stats,(2-0),+,5,+
+469,,,,,,,,,
+470,Sa 20 May,Tottenham,1 - 3,Brentford,stats,(1-0),+,4,+
+471,Sa 20 May,Bournemouth,0 - 1,Manchester Utd,stats,(0-1),-,1,-
+472,Sa 20 May,Fulham,2 - 2,Crystal Palace,stats,(1-1),+,4,+
+473,Sa 20 May,Liverpool,1 - 1,Aston Villa,stats,(0-1),-,2,+
+474,Sa 20 May,Wolverhampton,1 - 1,Everton,stats,(1-0),-,2,+
+475,Sa 20 May,Nottm Forest,1 - 0,Arsenal,stats,(1-0),-,1,-
+476,,,,,,,,,
+477,Su 21 May,West Ham Utd,3 - 1,Leeds Utd,stats,(1-1),+,4,+
+478,Su 21 May,Brighton,3 - 1,Southampton,stats,(2-0),+,4,+
+479,Su 21 May,Manchester City,1 - 0,Chelsea,stats,(1-0),-,1,-
+480,,,,,,,,,
+481,Mo 22 May,Newcastle Utd,0 - 0,Leicester City,stats,(0-0),-,0,-
+482,,,,,,,,,
+483,We 24 May,Brighton,1 - 1,Manchester City,stats,(1-1),-,2,+
+484,,,,,,,,,
+485,Th 25 May,Manchester Utd,4 - 1,Chelsea,stats,(2-0),+,5,+
+486,,,,,,,,,
+487,Su 28 May,Arsenal,5 - 0,Wolverhampton,stats,(3-0),+,5,-
+488,Su 28 May,Aston Villa,2 - 1,Brighton,stats,(2-1),+,3,+
+489,Su 28 May,Brentford,1 - 0,Manchester City,stats,(0-0),-,1,-
+490,Su 28 May,Chelsea,1 - 1,Newcastle Utd,stats,(1-1),-,2,+
+491,Su 28 May,Crystal Palace,1 - 1,Nottm Forest,stats,(0-1),-,2,+
+492,Su 28 May,Everton,1 - 0,Bournemouth,stats,(0-0),-,1,-
+493,Su 28 May,Leeds Utd,1 - 4,Tottenham,stats,(0-1),+,5,+
+494,Su 28 May,Leicester City,2 - 1,West Ham Utd,stats,(1-0),+,3,+
+495,Su 28 May,Manchester Utd,2 - 1,Fulham,stats,(1-1),+,3,+
+496,Su 28 May,Southampton,4 - 4,Liverpool,stats,(2-2),+,8,+

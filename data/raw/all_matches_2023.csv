@@ -1,0 +1,466 @@
+,date,home_team,score,away_team,stats,half_time,2.5+,total_goals,btts
+0,,,,,,,,,
+1,Fr 11 Aug,Burnley,0 - 3,Manchester City,stats,(0-2),+,3,-
+2,,,,,,,,,
+3,Sa 12 Aug,Arsenal,2 - 1,Nottm Forest,stats,(2-0),+,3,+
+4,Sa 12 Aug,Bournemouth,1 - 1,West Ham Utd,stats,(0-0),-,2,+
+5,Sa 12 Aug,Brighton,4 - 1,Luton Town,stats,(1-0),+,5,+
+6,Sa 12 Aug,Everton,0 - 1,Fulham,stats,(0-0),-,1,-
+7,Sa 12 Aug,Sheffield Utd,0 - 1,Crystal Palace,stats,(0-0),-,1,-
+8,Sa 12 Aug,Newcastle Utd,5 - 1,Aston Villa,stats,(2-1),+,6,+
+9,,,,,,,,,
+10,Su 13 Aug,Brentford,2 - 2,Tottenham,stats,(2-2),+,4,+
+11,Su 13 Aug,Chelsea,1 - 1,Liverpool,stats,(1-1),-,2,+
+12,,,,,,,,,
+13,Mo 14 Aug,Manchester Utd,1 - 0,Wolverhampton,stats,(0-0),-,1,-
+14,,,,,,,,,
+15,Fr 18 Aug,Nottm Forest,2 - 1,Sheffield Utd,stats,(1-0),+,3,+
+16,,,,,,,,,
+17,Sa 19 Aug,Fulham,0 - 3,Brentford,stats,(0-1),+,3,-
+18,Sa 19 Aug,Liverpool,3 - 1,Bournemouth,stats,(2-1),+,4,+
+19,Sa 19 Aug,Wolverhampton,1 - 4,Brighton,stats,(0-1),+,5,+
+20,Sa 19 Aug,Tottenham,2 - 0,Manchester Utd,stats,(0-0),-,2,-
+21,Sa 19 Aug,Manchester City,1 - 0,Newcastle Utd,stats,(1-0),-,1,-
+22,,,,,,,,,
+23,Su 20 Aug,Aston Villa,4 - 0,Everton,stats,(2-0),+,4,-
+24,Su 20 Aug,West Ham Utd,3 - 1,Chelsea,stats,(1-1),+,4,+
+25,,,,,,,,,
+26,Mo 21 Aug,Crystal Palace,0 - 1,Arsenal,stats,(0-0),-,1,-
+27,,,,,,,,,
+28,Fr 25 Aug,Chelsea,3 - 0,Luton Town,stats,(1-0),+,3,-
+29,,,,,,,,,
+30,Sa 26 Aug,Bournemouth,0 - 2,Tottenham,stats,(0-1),-,2,-
+31,Sa 26 Aug,Arsenal,2 - 2,Fulham,stats,(0-1),+,4,+
+32,Sa 26 Aug,Brentford,1 - 1,Crystal Palace,stats,(1-0),-,2,+
+33,Sa 26 Aug,Everton,0 - 1,Wolverhampton,stats,(0-0),-,1,-
+34,Sa 26 Aug,Manchester Utd,3 - 2,Nottm Forest,stats,(1-2),+,5,+
+35,Sa 26 Aug,Brighton,1 - 3,West Ham Utd,stats,(0-1),+,4,+
+36,,,,,,,,,
+37,Su 27 Aug,Burnley,1 - 3,Aston Villa,stats,(0-2),+,4,+
+38,Su 27 Aug,Sheffield Utd,1 - 2,Manchester City,stats,(0-0),+,3,+
+39,Su 27 Aug,Newcastle Utd,1 - 2,Liverpool,stats,(1-0),+,3,+
+40,,,,,,,,,
+41,Fr 1 Sep,Luton Town,1 - 2,West Ham Utd,stats,(0-1),+,3,+
+42,,,,,,,,,
+43,Sa 2 Sep,Sheffield Utd,2 - 2,Everton,stats,(2-1),+,4,+
+44,Sa 2 Sep,Brentford,2 - 2,Bournemouth,stats,(1-1),+,4,+
+45,Sa 2 Sep,Burnley,2 - 5,Tottenham,stats,(1-2),+,7,+
+46,Sa 2 Sep,Chelsea,0 - 1,Nottm Forest,stats,(0-0),-,1,-
+47,Sa 2 Sep,Manchester City,5 - 1,Fulham,stats,(2-1),+,6,+
+48,Sa 2 Sep,Brighton,3 - 1,Newcastle Utd,stats,(1-0),+,4,+
+49,,,,,,,,,
+50,Su 3 Sep,Crystal Palace,3 - 2,Wolverhampton,stats,(0-0),+,5,+
+51,Su 3 Sep,Liverpool,3 - 0,Aston Villa,stats,(2-0),+,3,-
+52,Su 3 Sep,Arsenal,3 - 1,Manchester Utd,stats,(1-1),+,4,+
+53,,,,,,,,,
+54,Sa 16 Sep,Wolverhampton,1 - 3,Liverpool,stats,(1-0),+,4,+
+55,Sa 16 Sep,Aston Villa,3 - 1,Crystal Palace,stats,(0-0),+,4,+
+56,Sa 16 Sep,Fulham,1 - 0,Luton Town,stats,(0-0),-,1,-
+57,Sa 16 Sep,Manchester Utd,1 - 3,Brighton,stats,(0-1),+,4,+
+58,Sa 16 Sep,Tottenham,2 - 1,Sheffield Utd,stats,(0-0),+,3,+
+59,Sa 16 Sep,West Ham Utd,1 - 3,Manchester City,stats,(1-0),+,4,+
+60,Sa 16 Sep,Newcastle Utd,1 - 0,Brentford,stats,(0-0),-,1,-
+61,,,,,,,,,
+62,Su 17 Sep,Bournemouth,0 - 0,Chelsea,stats,(0-0),-,0,-
+63,Su 17 Sep,Everton,0 - 1,Arsenal,stats,(0-0),-,1,-
+64,,,,,,,,,
+65,Mo 18 Sep,Nottm Forest,1 - 1,Burnley,stats,(0-1),-,2,+
+66,,,,,,,,,
+67,Sa 23 Sep,Crystal Palace,0 - 0,Fulham,stats,(0-0),-,0,-
+68,Sa 23 Sep,Luton Town,1 - 1,Wolverhampton,stats,(0-0),-,2,+
+69,Sa 23 Sep,Manchester City,2 - 0,Nottm Forest,stats,(2-0),-,2,-
+70,Sa 23 Sep,Brentford,1 - 3,Everton,stats,(1-1),+,4,+
+71,Sa 23 Sep,Burnley,0 - 1,Manchester Utd,stats,(0-1),-,1,-
+72,,,,,,,,,
+73,Su 24 Sep,Arsenal,2 - 2,Tottenham,stats,(1-1),+,4,+
+74,Su 24 Sep,Brighton,3 - 1,Bournemouth,stats,(1-1),+,4,+
+75,Su 24 Sep,Chelsea,0 - 1,Aston Villa,stats,(0-0),-,1,-
+76,Su 24 Sep,Liverpool,3 - 1,West Ham Utd,stats,(1-1),+,4,+
+77,Su 24 Sep,Sheffield Utd,0 - 8,Newcastle Utd,stats,(0-3),+,8,-
+78,,,,,,,,,
+79,Sa 30 Sep,Aston Villa,6 - 1,Brighton,stats,(3-0),+,7,+
+80,Sa 30 Sep,Bournemouth,0 - 4,Arsenal,stats,(0-2),+,4,-
+81,Sa 30 Sep,Everton,1 - 2,Luton Town,stats,(1-2),+,3,+
+82,Sa 30 Sep,Manchester Utd,0 - 1,Crystal Palace,stats,(0-1),-,1,-
+83,Sa 30 Sep,Newcastle Utd,2 - 0,Burnley,stats,(1-0),-,2,-
+84,Sa 30 Sep,West Ham Utd,2 - 0,Sheffield Utd,stats,(2-0),-,2,-
+85,Sa 30 Sep,Wolverhampton,2 - 1,Manchester City,stats,(1-0),+,3,+
+86,Sa 30 Sep,Tottenham,2 - 1,Liverpool,stats,(1-1),+,3,+
+87,,,,,,,,,
+88,Su 1 Oct,Nottm Forest,1 - 1,Brentford,stats,(0-0),-,2,+
+89,,,,,,,,,
+90,Mo 2 Oct,Fulham,0 - 2,Chelsea,stats,(0-2),-,2,-
+91,,,,,,,,,
+92,Tu 3 Oct,Luton Town,1 - 2,Burnley,stats,(0-1),+,3,+
+93,,,,,,,,,
+94,Sa 7 Oct,Luton Town,0 - 1,Tottenham,stats,(0-0),-,1,-
+95,Sa 7 Oct,Burnley,1 - 4,Chelsea,stats,(1-1),+,5,+
+96,Sa 7 Oct,Everton,3 - 0,Bournemouth,stats,(2-0),+,3,-
+97,Sa 7 Oct,Fulham,3 - 1,Sheffield Utd,stats,(0-0),+,4,+
+98,Sa 7 Oct,Manchester Utd,2 - 1,Brentford,stats,(0-1),+,3,+
+99,Sa 7 Oct,Crystal Palace,0 - 0,Nottm Forest,stats,(0-0),-,0,-
+100,,,,,,,,,
+101,Su 8 Oct,Brighton,2 - 2,Liverpool,stats,(1-2),+,4,+
+102,Su 8 Oct,West Ham Utd,2 - 2,Newcastle Utd,stats,(1-0),+,4,+
+103,Su 8 Oct,Wolverhampton,1 - 1,Aston Villa,stats,(0-0),-,2,+
+104,Su 8 Oct,Arsenal,1 - 0,Manchester City,stats,(0-0),-,1,-
+105,,,,,,,,,
+106,Sa 21 Oct,Liverpool,2 - 0,Everton,stats,(0-0),-,2,-
+107,Sa 21 Oct,Bournemouth,1 - 2,Wolverhampton,stats,(1-0),+,3,+
+108,Sa 21 Oct,Brentford,3 - 0,Burnley,stats,(1-0),+,3,-
+109,Sa 21 Oct,Manchester City,2 - 1,Brighton,stats,(2-0),+,3,+
+110,Sa 21 Oct,Newcastle Utd,4 - 0,Crystal Palace,stats,(3-0),+,4,-
+111,Sa 21 Oct,Nottm Forest,2 - 2,Luton Town,stats,(0-0),+,4,+
+112,Sa 21 Oct,Chelsea,2 - 2,Arsenal,stats,(1-0),+,4,+
+113,Sa 21 Oct,Sheffield Utd,1 - 2,Manchester Utd,stats,(1-1),+,3,+
+114,,,,,,,,,
+115,Su 22 Oct,Aston Villa,4 - 1,West Ham Utd,stats,(1-0),+,5,+
+116,,,,,,,,,
+117,Mo 23 Oct,Tottenham,2 - 0,Fulham,stats,(1-0),-,2,-
+118,,,,,,,,,
+119,Fr 27 Oct,Crystal Palace,1 - 2,Tottenham,stats,(0-0),+,3,+
+120,,,,,,,,,
+121,Sa 28 Oct,Chelsea,0 - 2,Brentford,stats,(0-0),-,2,-
+122,Sa 28 Oct,Arsenal,5 - 0,Sheffield Utd,stats,(1-0),+,5,-
+123,Sa 28 Oct,Bournemouth,2 - 1,Burnley,stats,(1-1),+,3,+
+124,Sa 28 Oct,Wolverhampton,2 - 2,Newcastle Utd,stats,(1-2),+,4,+
+125,,,,,,,,,
+126,Su 29 Oct,West Ham Utd,0 - 1,Everton,stats,(0-0),-,1,-
+127,Su 29 Oct,Aston Villa,3 - 1,Luton Town,stats,(1-0),+,4,+
+128,Su 29 Oct,Brighton,1 - 1,Fulham,stats,(1-0),-,2,+
+129,Su 29 Oct,Liverpool,3 - 0,Nottm Forest,stats,(2-0),+,3,-
+130,Su 29 Oct,Manchester Utd,0 - 3,Manchester City,stats,(0-1),+,3,-
+131,,,,,,,,,
+132,Sa 4 Nov,Fulham,0 - 1,Manchester Utd,stats,(0-0),-,1,-
+133,Sa 4 Nov,Brentford,3 - 2,West Ham Utd,stats,(1-2),+,5,+
+134,Sa 4 Nov,Burnley,0 - 2,Crystal Palace,stats,(0-1),-,2,-
+135,Sa 4 Nov,Everton,1 - 1,Brighton,stats,(1-0),-,2,+
+136,Sa 4 Nov,Manchester City,6 - 1,Bournemouth,stats,(3-0),+,7,+
+137,Sa 4 Nov,Sheffield Utd,2 - 1,Wolverhampton,stats,(0-0),+,3,+
+138,Sa 4 Nov,Newcastle Utd,1 - 0,Arsenal,stats,(0-0),-,1,-
+139,,,,,,,,,
+140,Su 5 Nov,Nottm Forest,2 - 0,Aston Villa,stats,(1-0),-,2,-
+141,Su 5 Nov,Luton Town,1 - 1,Liverpool,stats,(0-0),-,2,+
+142,,,,,,,,,
+143,Mo 6 Nov,Tottenham,1 - 4,Chelsea,stats,(1-1),+,5,+
+144,,,,,,,,,
+145,Sa 11 Nov,Wolverhampton,2 - 1,Tottenham,stats,(0-1),+,3,+
+146,Sa 11 Nov,Arsenal,3 - 1,Burnley,stats,(1-0),+,4,+
+147,Sa 11 Nov,Crystal Palace,2 - 3,Everton,stats,(1-1),+,5,+
+148,Sa 11 Nov,Manchester Utd,1 - 0,Luton Town,stats,(0-0),-,1,-
+149,Sa 11 Nov,Bournemouth,2 - 0,Newcastle Utd,stats,(0-0),-,2,-
+150,,,,,,,,,
+151,Su 12 Nov,Aston Villa,3 - 1,Fulham,stats,(2-0),+,4,+
+152,Su 12 Nov,Brighton,1 - 1,Sheffield Utd,stats,(1-0),-,2,+
+153,Su 12 Nov,Liverpool,3 - 0,Brentford,stats,(1-0),+,3,-
+154,Su 12 Nov,West Ham Utd,3 - 2,Nottm Forest,stats,(1-1),+,5,+
+155,Su 12 Nov,Chelsea,4 - 4,Manchester City,stats,(2-2),+,8,+
+156,,,,,,,,,
+157,Sa 25 Nov,Manchester City,1 - 1,Liverpool,stats,(1-0),-,2,+
+158,Sa 25 Nov,Burnley,1 - 2,West Ham Utd,stats,(0-0),+,3,+
+159,Sa 25 Nov,Luton Town,2 - 1,Crystal Palace,stats,(0-0),+,3,+
+160,Sa 25 Nov,Newcastle Utd,4 - 1,Chelsea,stats,(1-1),+,5,+
+161,Sa 25 Nov,Nottm Forest,2 - 3,Brighton,stats,(1-2),+,5,+
+162,Sa 25 Nov,Sheffield Utd,1 - 3,Bournemouth,stats,(0-2),+,4,+
+163,Sa 25 Nov,Brentford,0 - 1,Arsenal,stats,(0-0),-,1,-
+164,,,,,,,,,
+165,Su 26 Nov,Tottenham,1 - 2,Aston Villa,stats,(1-1),+,3,+
+166,Su 26 Nov,Everton,0 - 3,Manchester Utd,stats,(0-1),+,3,-
+167,,,,,,,,,
+168,Mo 27 Nov,Fulham,3 - 2,Wolverhampton,stats,(1-1),+,5,+
+169,,,,,,,,,
+170,Sa 2 Dec,Arsenal,2 - 1,Wolverhampton,stats,(2-0),+,3,+
+171,Sa 2 Dec,Brentford,3 - 1,Luton Town,stats,(0-0),+,4,+
+172,Sa 2 Dec,Burnley,5 - 0,Sheffield Utd,stats,(2-0),+,5,-
+173,Sa 2 Dec,Nottm Forest,0 - 1,Everton,stats,(0-0),-,1,-
+174,Sa 2 Dec,Newcastle Utd,1 - 0,Manchester Utd,stats,(0-0),-,1,-
+175,,,,,,,,,
+176,Su 3 Dec,Bournemouth,2 - 2,Aston Villa,stats,(1-1),+,4,+
+177,Su 3 Dec,Chelsea,3 - 2,Brighton,stats,(2-1),+,5,+
+178,Su 3 Dec,Liverpool,4 - 3,Fulham,stats,(2-2),+,7,+
+179,Su 3 Dec,West Ham Utd,1 - 1,Crystal Palace,stats,(1-0),-,2,+
+180,Su 3 Dec,Manchester City,3 - 3,Tottenham,stats,(2-1),+,6,+
+181,,,,,,,,,
+182,Tu 5 Dec,Wolverhampton,19:30,Burnley,h2h,,,,
+183,Tu 5 Dec,Luton Town,20:15,Arsenal,h2h,,,,
+184,,,,,,,,,
+185,We 6 Dec,Brighton,19:30,Brentford,h2h,,,,
+186,We 6 Dec,Crystal Palace,19:30,Bournemouth,h2h,,,,
+187,We 6 Dec,Fulham,19:30,Nottm Forest,h2h,,,,
+188,We 6 Dec,Sheffield Utd,19:30,Liverpool,h2h,,,,
+189,We 6 Dec,Aston Villa,20:15,Manchester City,h2h,,,,
+190,We 6 Dec,Manchester Utd,20:15,Chelsea,h2h,,,,
+191,,,,,,,,,
+192,Th 7 Dec,Everton,19:30,Newcastle Utd,h2h,,,,
+193,Th 7 Dec,Tottenham,20:15,West Ham Utd,h2h,,,,
+194,,,,,,,,,
+195,Sa 9 Dec,Crystal Palace,12:30,Liverpool,h2h,,,,
+196,Sa 9 Dec,Brighton,15:00,Burnley,h2h,,,,
+197,Sa 9 Dec,Manchester Utd,15:00,Bournemouth,h2h,,,,
+198,Sa 9 Dec,Sheffield Utd,15:00,Brentford,h2h,,,,
+199,Sa 9 Dec,Wolverhampton,15:00,Nottm Forest,h2h,,,,
+200,Sa 9 Dec,Aston Villa,17:30,Arsenal,h2h,,,,
+201,,,,,,,,,
+202,Su 10 Dec,Everton,14:00,Chelsea,h2h,,,,
+203,Su 10 Dec,Fulham,14:00,West Ham Utd,h2h,,,,
+204,Su 10 Dec,Luton Town,14:00,Manchester City,h2h,,,,
+205,Su 10 Dec,Tottenham,16:30,Newcastle Utd,h2h,,,,
+206,,,,,,,,,
+207,Fr 15 Dec,Nottm Forest,20:00,Tottenham,h2h,,,,
+208,,,,,,,,,
+209,Sa 16 Dec,Bournemouth,15:00,Luton Town,h2h,,,,
+210,Sa 16 Dec,Chelsea,15:00,Sheffield Utd,h2h,,,,
+211,Sa 16 Dec,Manchester City,15:00,Crystal Palace,h2h,,,,
+212,Sa 16 Dec,Newcastle Utd,15:00,Fulham,h2h,,,,
+213,Sa 16 Dec,Burnley,17:30,Everton,h2h,,,,
+214,,,,,,,,,
+215,Su 17 Dec,Arsenal,14:00,Brighton,h2h,,,,
+216,Su 17 Dec,Brentford,14:00,Aston Villa,h2h,,,,
+217,Su 17 Dec,West Ham Utd,14:00,Wolverhampton,h2h,,,,
+218,Su 17 Dec,Liverpool,16:30,Manchester Utd,h2h,,,,
+219,,,,,,,,,
+220,Th 21 Dec,Crystal Palace,20:00,Brighton,h2h,,,,
+221,,,,,,,,,
+222,Fr 22 Dec,Aston Villa,20:00,Sheffield Utd,h2h,,,,
+223,Fr 22 Dec,Manchester City,pp.,Brentford,,,,,
+224,,,,,,,,,
+225,Sa 23 Dec,West Ham Utd,12:30,Manchester Utd,h2h,,,,
+226,Sa 23 Dec,Fulham,15:00,Burnley,h2h,,,,
+227,Sa 23 Dec,Luton Town,15:00,Newcastle Utd,h2h,,,,
+228,Sa 23 Dec,Nottm Forest,15:00,Bournemouth,h2h,,,,
+229,Sa 23 Dec,Tottenham,15:00,Everton,h2h,,,,
+230,Sa 23 Dec,Liverpool,17:30,Arsenal,h2h,,,,
+231,,,,,,,,,
+232,Su 24 Dec,Wolverhampton,13:00,Chelsea,h2h,,,,
+233,,,,,,,,,
+234,Tu 26 Dec,Newcastle Utd,12:30,Nottm Forest,h2h,,,,
+235,Tu 26 Dec,Bournemouth,15:00,Fulham,h2h,,,,
+236,Tu 26 Dec,Sheffield Utd,15:00,Luton Town,h2h,,,,
+237,Tu 26 Dec,Burnley,17:30,Liverpool,h2h,,,,
+238,Tu 26 Dec,Manchester Utd,20:00,Aston Villa,h2h,,,,
+239,,,,,,,,,
+240,We 27 Dec,Brentford,19:30,Wolverhampton,h2h,,,,
+241,We 27 Dec,Chelsea,19:30,Crystal Palace,h2h,,,,
+242,We 27 Dec,Everton,20:15,Manchester City,h2h,,,,
+243,,,,,,,,,
+244,Th 28 Dec,Brighton,19:30,Tottenham,h2h,,,,
+245,Th 28 Dec,Arsenal,20:15,West Ham Utd,h2h,,,,
+246,,,,,,,,,
+247,Sa 30 Dec,Luton Town,12:30,Chelsea,h2h,,,,
+248,Sa 30 Dec,Aston Villa,15:00,Burnley,h2h,,,,
+249,Sa 30 Dec,Crystal Palace,15:00,Brentford,h2h,,,,
+250,Sa 30 Dec,Manchester City,15:00,Sheffield Utd,h2h,,,,
+251,Sa 30 Dec,Wolverhampton,15:00,Everton,h2h,,,,
+252,Sa 30 Dec,Nottm Forest,17:30,Manchester Utd,h2h,,,,
+253,,,,,,,,,
+254,Su 31 Dec,Fulham,14:00,Arsenal,h2h,,,,
+255,Su 31 Dec,Tottenham,14:00,Bournemouth,h2h,,,,
+256,,,,,,,,,
+257,Mo 1 Jan,Liverpool,20:00,Newcastle Utd,h2h,,,,
+258,,,,,,,,,
+259,Tu 2 Jan,West Ham Utd,19:30,Brighton,h2h,,,,
+260,,,,,,,,,
+261,Sa 13 Jan,Chelsea,12:30,Fulham,h2h,,,,
+262,Sa 13 Jan,Newcastle Utd,17:30,Manchester City,h2h,,,,
+263,,,,,,,,,
+264,Su 14 Jan,Everton,14:00,Aston Villa,h2h,,,,
+265,Su 14 Jan,Manchester Utd,16:30,Tottenham,h2h,,,,
+266,,,,,,,,,
+267,Mo 15 Jan,Burnley,19:45,Luton Town,h2h,,,,
+268,,,,,,,,,
+269,Sa 20 Jan,Arsenal,12:30,Crystal Palace,h2h,,,,
+270,Sa 20 Jan,Brentford,17:30,Nottm Forest,h2h,,,,
+271,,,,,,,,,
+272,Su 21 Jan,Sheffield Utd,14:00,West Ham Utd,h2h,,,,
+273,Su 21 Jan,Bournemouth,16:30,Liverpool,h2h,,,,
+274,,,,,,,,,
+275,Mo 22 Jan,Brighton,19:45,Wolverhampton,h2h,,,,
+276,,,,,,,,,
+277,Tu 30 Jan,Aston Villa,19:45,Newcastle Utd,h2h,,,,
+278,Tu 30 Jan,Fulham,19:45,Everton,h2h,,,,
+279,Tu 30 Jan,Luton Town,19:45,Brighton,h2h,,,,
+280,Tu 30 Jan,Nottm Forest,19:45,Arsenal,h2h,,,,
+281,Tu 30 Jan,Tottenham,19:45,Brentford,h2h,,,,
+282,Tu 30 Jan,West Ham Utd,19:45,Bournemouth,h2h,,,,
+283,Tu 30 Jan,Wolverhampton,19:45,Manchester Utd,h2h,,,,
+284,Tu 30 Jan,Crystal Palace,20:00,Sheffield Utd,h2h,,,,
+285,,,,,,,,,
+286,We 31 Jan,Liverpool,20:00,Chelsea,h2h,,,,
+287,We 31 Jan,Manchester City,20:00,Burnley,h2h,,,,
+288,,,,,,,,,
+289,Sa 3 Feb,Arsenal,15:00,Liverpool,h2h,,,,
+290,Sa 3 Feb,Bournemouth,15:00,Nottm Forest,h2h,,,,
+291,Sa 3 Feb,Brentford,15:00,Manchester City,h2h,,,,
+292,Sa 3 Feb,Brighton,15:00,Crystal Palace,h2h,,,,
+293,Sa 3 Feb,Burnley,15:00,Fulham,h2h,,,,
+294,Sa 3 Feb,Chelsea,15:00,Wolverhampton,h2h,,,,
+295,Sa 3 Feb,Everton,15:00,Tottenham,h2h,,,,
+296,Sa 3 Feb,Manchester Utd,15:00,West Ham Utd,h2h,,,,
+297,Sa 3 Feb,Newcastle Utd,15:00,Luton Town,h2h,,,,
+298,Sa 3 Feb,Sheffield Utd,15:00,Aston Villa,h2h,,,,
+299,,,,,,,,,
+300,Sa 10 Feb,Aston Villa,15:00,Manchester Utd,h2h,,,,
+301,Sa 10 Feb,Crystal Palace,15:00,Chelsea,h2h,,,,
+302,Sa 10 Feb,Fulham,15:00,Bournemouth,h2h,,,,
+303,Sa 10 Feb,Liverpool,15:00,Burnley,h2h,,,,
+304,Sa 10 Feb,Luton Town,15:00,Sheffield Utd,h2h,,,,
+305,Sa 10 Feb,Manchester City,15:00,Everton,h2h,,,,
+306,Sa 10 Feb,Nottm Forest,15:00,Newcastle Utd,h2h,,,,
+307,Sa 10 Feb,Tottenham,15:00,Brighton,h2h,,,,
+308,Sa 10 Feb,West Ham Utd,15:00,Arsenal,h2h,,,,
+309,Sa 10 Feb,Wolverhampton,15:00,Brentford,h2h,,,,
+310,,,,,,,,,
+311,Sa 17 Feb,Brentford,15:00,Liverpool,h2h,,,,
+312,Sa 17 Feb,Burnley,15:00,Arsenal,h2h,,,,
+313,Sa 17 Feb,Everton,15:00,Crystal Palace,h2h,,,,
+314,Sa 17 Feb,Fulham,15:00,Aston Villa,h2h,,,,
+315,Sa 17 Feb,Luton Town,15:00,Manchester Utd,h2h,,,,
+316,Sa 17 Feb,Manchester City,15:00,Chelsea,h2h,,,,
+317,Sa 17 Feb,Newcastle Utd,15:00,Bournemouth,h2h,,,,
+318,Sa 17 Feb,Nottm Forest,15:00,West Ham Utd,h2h,,,,
+319,Sa 17 Feb,Sheffield Utd,15:00,Brighton,h2h,,,,
+320,Sa 17 Feb,Tottenham,15:00,Wolverhampton,h2h,,,,
+321,,,,,,,,,
+322,Sa 24 Feb,Arsenal,15:00,Newcastle Utd,h2h,,,,
+323,Sa 24 Feb,Aston Villa,15:00,Nottm Forest,h2h,,,,
+324,Sa 24 Feb,Bournemouth,15:00,Manchester City,h2h,,,,
+325,Sa 24 Feb,Brighton,15:00,Everton,h2h,,,,
+326,Sa 24 Feb,Chelsea,15:00,Tottenham,h2h,,,,
+327,Sa 24 Feb,Crystal Palace,15:00,Burnley,h2h,,,,
+328,Sa 24 Feb,Liverpool,15:00,Luton Town,h2h,,,,
+329,Sa 24 Feb,Manchester Utd,15:00,Fulham,h2h,,,,
+330,Sa 24 Feb,West Ham Utd,15:00,Brentford,h2h,,,,
+331,Sa 24 Feb,Wolverhampton,15:00,Sheffield Utd,h2h,,,,
+332,,,,,,,,,
+333,Sa 2 Mar,Brentford,15:00,Chelsea,h2h,,,,
+334,Sa 2 Mar,Burnley,15:00,Bournemouth,h2h,,,,
+335,Sa 2 Mar,Everton,15:00,West Ham Utd,h2h,,,,
+336,Sa 2 Mar,Fulham,15:00,Brighton,h2h,,,,
+337,Sa 2 Mar,Luton Town,15:00,Aston Villa,h2h,,,,
+338,Sa 2 Mar,Manchester City,15:00,Manchester Utd,h2h,,,,
+339,Sa 2 Mar,Newcastle Utd,15:00,Wolverhampton,h2h,,,,
+340,Sa 2 Mar,Nottm Forest,15:00,Liverpool,h2h,,,,
+341,Sa 2 Mar,Sheffield Utd,15:00,Arsenal,h2h,,,,
+342,Sa 2 Mar,Tottenham,15:00,Crystal Palace,h2h,,,,
+343,,,,,,,,,
+344,Sa 9 Mar,Arsenal,15:00,Brentford,h2h,,,,
+345,Sa 9 Mar,Aston Villa,15:00,Tottenham,h2h,,,,
+346,Sa 9 Mar,Bournemouth,15:00,Sheffield Utd,h2h,,,,
+347,Sa 9 Mar,Brighton,15:00,Nottm Forest,h2h,,,,
+348,Sa 9 Mar,Chelsea,15:00,Newcastle Utd,h2h,,,,
+349,Sa 9 Mar,Crystal Palace,15:00,Luton Town,h2h,,,,
+350,Sa 9 Mar,Liverpool,15:00,Manchester City,h2h,,,,
+351,Sa 9 Mar,Manchester Utd,15:00,Everton,h2h,,,,
+352,Sa 9 Mar,West Ham Utd,15:00,Burnley,h2h,,,,
+353,Sa 9 Mar,Wolverhampton,15:00,Fulham,h2h,,,,
+354,,,,,,,,,
+355,Sa 16 Mar,Arsenal,15:00,Chelsea,h2h,,,,
+356,Sa 16 Mar,Brighton,15:00,Manchester City,h2h,,,,
+357,Sa 16 Mar,Burnley,15:00,Brentford,h2h,,,,
+358,Sa 16 Mar,Crystal Palace,15:00,Newcastle Utd,h2h,,,,
+359,Sa 16 Mar,Everton,15:00,Liverpool,h2h,,,,
+360,Sa 16 Mar,Fulham,15:00,Tottenham,h2h,,,,
+361,Sa 16 Mar,Luton Town,15:00,Nottm Forest,h2h,,,,
+362,Sa 16 Mar,Manchester Utd,15:00,Sheffield Utd,h2h,,,,
+363,Sa 16 Mar,West Ham Utd,15:00,Aston Villa,h2h,,,,
+364,Sa 16 Mar,Wolverhampton,15:00,Bournemouth,h2h,,,,
+365,,,,,,,,,
+366,Sa 30 Mar,Aston Villa,15:00,Wolverhampton,h2h,,,,
+367,Sa 30 Mar,Bournemouth,15:00,Everton,h2h,,,,
+368,Sa 30 Mar,Brentford,15:00,Manchester Utd,h2h,,,,
+369,Sa 30 Mar,Chelsea,15:00,Burnley,h2h,,,,
+370,Sa 30 Mar,Liverpool,15:00,Brighton,h2h,,,,
+371,Sa 30 Mar,Manchester City,15:00,Arsenal,h2h,,,,
+372,Sa 30 Mar,Newcastle Utd,15:00,West Ham Utd,h2h,,,,
+373,Sa 30 Mar,Nottm Forest,15:00,Crystal Palace,h2h,,,,
+374,Sa 30 Mar,Sheffield Utd,15:00,Fulham,h2h,,,,
+375,Sa 30 Mar,Tottenham,15:00,Luton Town,h2h,,,,
+376,,,,,,,,,
+377,Tu 2 Apr,Arsenal,18:45,Luton Town,h2h,,,,
+378,Tu 2 Apr,Bournemouth,18:45,Crystal Palace,h2h,,,,
+379,Tu 2 Apr,Brentford,18:45,Brighton,h2h,,,,
+380,Tu 2 Apr,Burnley,18:45,Wolverhampton,h2h,,,,
+381,Tu 2 Apr,Nottm Forest,18:45,Fulham,h2h,,,,
+382,Tu 2 Apr,West Ham Utd,18:45,Tottenham,h2h,,,,
+383,,,,,,,,,
+384,We 3 Apr,Chelsea,18:45,Manchester Utd,h2h,,,,
+385,We 3 Apr,Newcastle Utd,18:45,Everton,h2h,,,,
+386,We 3 Apr,Liverpool,19:00,Sheffield Utd,h2h,,,,
+387,We 3 Apr,Manchester City,19:00,Aston Villa,h2h,,,,
+388,,,,,,,,,
+389,Sa 6 Apr,Aston Villa,14:00,Brentford,h2h,,,,
+390,Sa 6 Apr,Brighton,14:00,Arsenal,h2h,,,,
+391,Sa 6 Apr,Crystal Palace,14:00,Manchester City,h2h,,,,
+392,Sa 6 Apr,Everton,14:00,Burnley,h2h,,,,
+393,Sa 6 Apr,Fulham,14:00,Newcastle Utd,h2h,,,,
+394,Sa 6 Apr,Luton Town,14:00,Bournemouth,h2h,,,,
+395,Sa 6 Apr,Manchester Utd,14:00,Liverpool,h2h,,,,
+396,Sa 6 Apr,Sheffield Utd,14:00,Chelsea,h2h,,,,
+397,Sa 6 Apr,Tottenham,14:00,Nottm Forest,h2h,,,,
+398,Sa 6 Apr,Wolverhampton,14:00,West Ham Utd,h2h,,,,
+399,,,,,,,,,
+400,Sa 13 Apr,Arsenal,14:00,Aston Villa,h2h,,,,
+401,Sa 13 Apr,Bournemouth,14:00,Manchester Utd,h2h,,,,
+402,Sa 13 Apr,Brentford,14:00,Sheffield Utd,h2h,,,,
+403,Sa 13 Apr,Burnley,14:00,Brighton,h2h,,,,
+404,Sa 13 Apr,Chelsea,14:00,Everton,h2h,,,,
+405,Sa 13 Apr,Liverpool,14:00,Crystal Palace,h2h,,,,
+406,Sa 13 Apr,Manchester City,14:00,Luton Town,h2h,,,,
+407,Sa 13 Apr,Newcastle Utd,14:00,Tottenham,h2h,,,,
+408,Sa 13 Apr,Nottm Forest,14:00,Wolverhampton,h2h,,,,
+409,Sa 13 Apr,West Ham Utd,14:00,Fulham,h2h,,,,
+410,,,,,,,,,
+411,Sa 20 Apr,Aston Villa,14:00,Bournemouth,h2h,,,,
+412,Sa 20 Apr,Brighton,14:00,Chelsea,h2h,,,,
+413,Sa 20 Apr,Crystal Palace,14:00,West Ham Utd,h2h,,,,
+414,Sa 20 Apr,Everton,14:00,Nottm Forest,h2h,,,,
+415,Sa 20 Apr,Fulham,14:00,Liverpool,h2h,,,,
+416,Sa 20 Apr,Luton Town,14:00,Brentford,h2h,,,,
+417,Sa 20 Apr,Manchester Utd,14:00,Newcastle Utd,h2h,,,,
+418,Sa 20 Apr,Sheffield Utd,14:00,Burnley,h2h,,,,
+419,Sa 20 Apr,Tottenham,14:00,Manchester City,h2h,,,,
+420,Sa 20 Apr,Wolverhampton,14:00,Arsenal,h2h,,,,
+421,,,,,,,,,
+422,Sa 27 Apr,Aston Villa,14:00,Chelsea,h2h,,,,
+423,Sa 27 Apr,Bournemouth,14:00,Brighton,h2h,,,,
+424,Sa 27 Apr,Everton,14:00,Brentford,h2h,,,,
+425,Sa 27 Apr,Fulham,14:00,Crystal Palace,h2h,,,,
+426,Sa 27 Apr,Manchester Utd,14:00,Burnley,h2h,,,,
+427,Sa 27 Apr,Newcastle Utd,14:00,Sheffield Utd,h2h,,,,
+428,Sa 27 Apr,Nottm Forest,14:00,Manchester City,h2h,,,,
+429,Sa 27 Apr,Tottenham,14:00,Arsenal,h2h,,,,
+430,Sa 27 Apr,West Ham Utd,14:00,Liverpool,h2h,,,,
+431,Sa 27 Apr,Wolverhampton,14:00,Luton Town,h2h,,,,
+432,,,,,,,,,
+433,Sa 4 May,Arsenal,14:00,Bournemouth,h2h,,,,
+434,Sa 4 May,Brentford,14:00,Fulham,h2h,,,,
+435,Sa 4 May,Brighton,14:00,Aston Villa,h2h,,,,
+436,Sa 4 May,Burnley,14:00,Newcastle Utd,h2h,,,,
+437,Sa 4 May,Chelsea,14:00,West Ham Utd,h2h,,,,
+438,Sa 4 May,Crystal Palace,14:00,Manchester Utd,h2h,,,,
+439,Sa 4 May,Liverpool,14:00,Tottenham,h2h,,,,
+440,Sa 4 May,Luton Town,14:00,Everton,h2h,,,,
+441,Sa 4 May,Manchester City,14:00,Wolverhampton,h2h,,,,
+442,Sa 4 May,Sheffield Utd,14:00,Nottm Forest,h2h,,,,
+443,,,,,,,,,
+444,Sa 11 May,Aston Villa,14:00,Liverpool,h2h,,,,
+445,Sa 11 May,Bournemouth,14:00,Brentford,h2h,,,,
+446,Sa 11 May,Everton,14:00,Sheffield Utd,h2h,,,,
+447,Sa 11 May,Fulham,14:00,Manchester City,h2h,,,,
+448,Sa 11 May,Manchester Utd,14:00,Arsenal,h2h,,,,
+449,Sa 11 May,Newcastle Utd,14:00,Brighton,h2h,,,,
+450,Sa 11 May,Nottm Forest,14:00,Chelsea,h2h,,,,
+451,Sa 11 May,Tottenham,14:00,Burnley,h2h,,,,
+452,Sa 11 May,West Ham Utd,14:00,Luton Town,h2h,,,,
+453,Sa 11 May,Wolverhampton,14:00,Crystal Palace,h2h,,,,
+454,,,,,,,,,
+455,Su 19 May,Arsenal,15:00,Everton,h2h,,,,
+456,Su 19 May,Brentford,15:00,Newcastle Utd,h2h,,,,
+457,Su 19 May,Brighton,15:00,Manchester Utd,h2h,,,,
+458,Su 19 May,Burnley,15:00,Nottm Forest,h2h,,,,
+459,Su 19 May,Chelsea,15:00,Bournemouth,h2h,,,,
+460,Su 19 May,Crystal Palace,15:00,Aston Villa,h2h,,,,
+461,Su 19 May,Liverpool,15:00,Wolverhampton,h2h,,,,
+462,Su 19 May,Luton Town,15:00,Fulham,h2h,,,,
+463,Su 19 May,Manchester City,15:00,West Ham Utd,h2h,,,,
+464,Su 19 May,Sheffield Utd,15:00,Tottenham,h2h,,,,
