@@ -14,11 +14,16 @@ Open a new terminal or command prompt window.Use the following command to create
 
 
 ## Instructions on how to install the required libraries
+After launching Jupyter notebook install the required libraries using the pip install command. The libraries used in the project include pandas, matplotlib, pickle, scikit.learn, requests, BeautifulSoup, json.
 
 ## Instructions on how to download the data
+To downoald the data, just run the get_data.ipynb file and the required csv files will be downloaded to the data/raw folder.
 
 ## Instructions on how to clean the data
+To clean the data, just run the clean_data.ipynb file and the final pre processed data csv file will be downloaded to the data/processed folder.
 
 ## Instrucions on how to run analysis code
+To run the analysis code, run the run_analysis.ipynb file and input the team names for home and away to generate the prediction result.
 
 ## Instructions on how to create visualizations
+To create visualization plots, run the visualize_results.ipynb and you can observe the bar ,box, histograms and scatter plots being plotted.
